@@ -74,7 +74,7 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '+49 17685982399',
     email: 'ananyakulkarni55@gmail.com',
   },
@@ -280,12 +280,12 @@ const CONFIG = {
     },
   },
 
-  // Optional Footer. Supports plain text or HTML.
+  /* Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
       class="text-primary" href="https://github.com/AnKu-02/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a> and ❤️`,*/
 
   enablePWA: false,
 };
